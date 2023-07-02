@@ -1,0 +1,4 @@
+node_modules
+.prettierignore
+.env
+.vscode/settings.json
